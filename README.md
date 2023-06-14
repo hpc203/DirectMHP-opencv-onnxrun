@@ -7,3 +7,5 @@
 一共有186个文件，占据磁盘空间大小17.1G，
 onnx文件在百度云盘，链接：https://pan.baidu.com/s/1MoWGjtebc-yakgpD15WUeA 
 提取码：i1g1
+
+训练源码在https://github.com/hnuzhy/DirectMHP
